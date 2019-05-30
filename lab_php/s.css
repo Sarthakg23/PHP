@@ -1,0 +1,41 @@
+footer
+{
+	background:gray;
+}
+header {
+  width:100%;
+  text-align: center;
+  background: silver;
+  color: black;
+  font-size: 30px;
+  border-style: double;
+}
+divr
+
+{float:right;
+height:540px;
+	width:50%;
+	background:linear-gradient(#9198e5,#e66465);
+	overflow:scroll;
+	//padding-left:20px;
+
+  
+}
+divl
+{  float:left;
+	background: linear-gradient(#e7e9bb,#403b4a);	
+	width:50%;
+	height:540px;
+	overflow:scroll;
+   // padding-left:20px;
+
+}
+h1
+{
+	
+	text-shadow: 0 0 3px #FF0000;
+}
+divh
+{
+	padding-right:100%;
+}

@@ -1,0 +1,13 @@
+Faculty Name :
+Subject :
+Date :
+Student Id :
+Student Name :
+Review :
+Comments :Faculty Name :abc
+Subject :maths
+Date :2019-04-17
+Student Id :68
+Student Name :sarthak
+Review :5
+Comments :Good
